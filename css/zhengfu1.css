@@ -1,0 +1,81 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2016-3-11, 9:20:00
+    Author     : Administrator
+*/
+
+
+/*旋转部分、、、、、、、、、、、、、、、、、、、、、、、、、、*/
+.section3{
+    width: 1000px;
+    height: 680px;
+    margin: 40px auto 0px;
+    background: url(../img/147_03.png) 32px 65px no-repeat;
+    position: relative;
+}
+.ball img{
+    width: 110px;
+    height:110px;
+    border-radius: 15px;
+}
+.section3 .ball_c {
+    position: absolute;
+    width: 225px;
+    height: 157px;
+    line-height: 157px;
+    text-align: center;
+    background: url(../img/zfzs.png) no-repeat;
+    left:380px;
+    top: 190px;
+}
+.section3 .base .ball_1{
+    float: left;
+    position: absolute;
+    right:130px;
+    top:55px;
+}
+.section3 .ball  img{
+    width: 110px;
+    height: 110px;
+}
+.section3 .base .ball_2{
+    float: left;
+    position: absolute;
+    right:47%;
+    top:60%;
+}
+.section3 .base .ball_3{
+    float: left;
+    position: absolute;
+    left:15%;
+    top:20%;
+}
+.section3 .base .ball_4{
+    float: left;
+    position: absolute;
+    left:42%;
+    top:6%;
+}
+.section3 .base .ball_5{
+    float: left;
+    position: absolute;
+    left:8%;
+    top:50%;
+}
+.section3 .base .ball_6{
+    float: left;
+    position: absolute;
+    right:20%;
+    bottom:215px;
+}
+.lht a{
+    font-size: 16px;
+    font-family: '微软雅黑';
+    color:#484848;
+    line-height: 30px;
+}
+
