@@ -163,8 +163,10 @@
 		var stransh2="<div class='block2'><div class='txt answer' onclick='response(1)'><article class='txt answer' >";
 		var stranse="</article></div></div>";
 		var hint="<h4>选择一个回答索菲亚吧！</h4>";
-		init();
-		function init(){
+		init(1);
+		
+		function init(flag2){
+			flag=flag2;
 			document.getElementById("text").innerHTML = strques + stransh1 + answers[(npcid-1)*10+(flag-1)*2+0] + stranse + stransh2 + answers[(npcid-1)*10+(flag-1)*2+1] + stranse+hint;
 			
 			document.getElementById("ques").innerHTML = questions[(npcid-1)*5+flag-1];
@@ -189,7 +191,7 @@
 				document.getElementById("lastpart").onclick= function(){""};
 			}
 
-			init();
+			init(flag);
 		}
 		function next(){
 			if(flag==4){
@@ -202,18 +204,18 @@
 				
 			}
 			flag++;
-			init();
+			init(flag);
 		}
 		function response(res){
 			
 			if(flag!=5){
-				document.getElementById("text").innerHTML = strques+ "<div class='block2'><div class='txt answer' onclick='init()'><article class='txt answer' >再选一次</article></div></div><div class='block2'><div class='txt answer' onclick='next()'><article class='txt answer' >下一个问题！</article></div></div><br>";
+				document.getElementById("text").innerHTML = strques+ "<div class='block2'><div class='txt answer' onclick='init(flag)'><article class='txt answer' >再选一次</article></div></div><div class='block2'><div class='txt answer' onclick='next()'><article class='txt answer' >下一个问题！</article></div></div><br>";
 			}
 			else{
-				flag=1;
-				document.getElementById("text").innerHTML = strques+ "<div class='block2'><div class='txt answer' onclick='init()'><article class='txt answer' >再选一次</article></div></div><div class='block2'><div class='txt answer' onclick='init()'><article class='txt answer' >五个问题都答完啦，再来一遍！</article></div></div><br>";
-
+				
+				document.getElementById("text").innerHTML = strques+ "<div class='block2'><div class='txt answer' onclick='init(flag)'><article class='txt answer' >再选一次</article></div></div><div class='block2'><div class='txt answer' onclick='init(1)'><article class='txt answer' >五个问题都答完啦，再来一遍！</article></div></div><br>";
 			}
 			document.getElementById("ques").innerHTML = responses[(npcid-1)*10+(flag-1)*2+res] ;
+*10+(flag-1)*2+res] ;
 		}</script>
 </html>
