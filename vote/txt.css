@@ -1,0 +1,313 @@
+body{
+	text-align:center;
+	
+}
+
+article.txt {
+    font-family: "Microsoft YaHei", Sans-Serif;
+	font-weight : 400;
+	font-size: 200%;
+	text-align:left;
+	height:200px;
+	border:0px;
+	background:none;
+	line-height: 1.3em;
+	letter-spacing:0px;
+	color:rgba(0, 0, 0, 0.7);
+	vertical-align:middle;
+	display:table-cell;
+}
+
+div.txt{
+	text-align:center;
+	margin:auto;
+	width:
+	display:table;
+	z-index:5;
+	position:relative;
+	padding-left:28%;
+	padding-right:9%;
+}
+
+.block{
+
+	width:100%;
+	margin:auto;
+	margin-top:1%;
+	margin-bottom:3%;
+	text-align:center;
+	overflow:hidden;
+	background-image:url('bg/bg102.png');
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:100%;
+}
+
+.block2{
+
+	width:100%;
+	margin:auto;
+	margin-top:1%;
+	margin-bottom:3%;
+	text-align:center;
+	overflow:hidden;
+	background-image:url('../images/bg/npcAnswer.png');
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:100%;
+}
+
+
+.img1{
+	width:100%;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:100%;
+}
+
+.img2{
+	height:100%;
+	background-position:5%;
+	background-repeat:no-repeat;
+	background-size:24% 110%;
+}
+
+
+.gray { 
+-webkit-filter: grayscale(100%); 
+-moz-filter: grayscale(100%); 
+-ms-filter: grayscale(100%); 
+-o-filter: grayscale(100%); 
+filter: grayscale(100%); 
+filter: gray; 
+	width:30%;
+} 
+
+.normal{
+	width:30%;
+	
+}
+#text{
+
+	width:100%;
+	padding-top:4%;
+}
+
+
+#choosseTask{
+	margin-bottom:0;
+		margin-top:1%;
+	
+	height:200px;
+
+	background-image:url('../images/bg/taskname.png');
+	background-position:center;
+	background-repeat:no-repeat;
+	color:#966c5f;
+}
+#chapterName{
+
+	padding-top:2.5%;
+
+	font-size: 300%;
+	
+}
+#taskName{
+
+	
+	font-size: 200%;
+
+}
+#chapter{
+	
+	margin-top:3%;
+}
+span.task{
+
+	background-image:url('../images/task.png');
+		background-position:center;
+	background-repeat:no-repeat;
+	color:#fff;
+	
+
+
+	display:-moz-inline-box; 
+	display:inline-block; 
+	font-size: 190%;
+	height:60px;
+	width:170px;
+	margin:5px;
+	line-height:60px;
+}
+div.task{
+	padding-left:10%;
+	padding-right:10%;
+	padding-top:4%;
+	width:100%;
+}
+
+#jump1{
+	margin-top:1%;
+	margin-bottom:0px;
+
+}
+#jump2{
+
+	margin-bottom:3%;
+
+}
+
+div.answer{
+	padding-left:20%;
+	padding-right:20%;
+	
+}
+
+@media (min-width:980px){
+	.block{
+
+		width:960px;
+
+	}
+			article.answer {
+		height:150px;
+	}
+	
+}
+
+@media (max-width:980px){
+	article.txt {
+		height:180px;
+		font-size: 180%;
+
+	}
+		article.answer {
+		height:140px;
+	}
+}
+
+@media (max-width:900px){
+	article.txt {
+		height:160px;
+		font-size: 160%;
+
+	}
+		article.answer {
+		height:130px;
+	}
+}
+
+@media (max-width:800px){
+	article.txt {
+		height:150px;
+		font-size: 150%;
+
+	}
+		article.answer {
+		height:120px;
+	}
+}
+
+@media (max-width:750px){
+	article.txt {
+		height:130px;
+		font-size: 130%;
+
+	}
+		article.answer {
+		height:110px;
+	}
+}
+
+@media (max-width:700px){
+	article.txt {
+		height:110px;
+		font-size: 110%;
+
+	}
+		article.answer {
+		height:100px;
+	}
+}
+
+@media (max-width:650px){
+	article.txt {
+		height:100px;
+		font-size: 100%;
+
+	}
+		article.answer {
+		height:90px;
+	}
+	span.task{
+		background-size:100%;
+		font-size: 92%;
+		height:36px;
+		width:88px;
+		margin:3px;
+		line-height:36px;
+	}
+	#chapterName{
+		padding-top:1.5%;
+		font-size: 230%;
+	}
+	#taskName{
+		font-size: 150%;
+	}
+	#choosseTask{
+		height:130px;
+	}
+}
+
+
+@media (max-width:600px){
+	article.txt {
+		height:95px;
+		font-size: 90%;
+
+	}
+		article.answer {
+		height:75px;
+	}
+	span.task{
+		background-size:100%;
+		font-size: 92%;
+		height:36px;
+		width:88px;
+		margin:3px;
+		line-height:36px;
+	}
+}
+@media (max-width:550px){
+	article.txt {
+		height:95px;
+		font-size: 80%;
+
+	}
+	article.answer {
+		height:60px;
+	}
+	span.task{
+		background-size:100%;
+		font-size: 70%;
+		height:23px;
+		width:60px;
+		margin:3px;
+		line-height:23px;
+	}
+	div.task{
+
+		padding-top:3%;
+
+	}
+	#chapterName{
+		padding-top:1%;
+		font-size: 150%;
+	}
+	#taskName{
+		font-size: 100%;
+	}
+	#choosseTask{
+		height:100px;
+	}
+}
