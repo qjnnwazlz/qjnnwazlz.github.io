@@ -12,7 +12,7 @@ function init(flag2){
 				document.getElementById("nextpart").onclick= function(){next()};
 			}
 			if(flag==4&&npcid==4){
-				Toast("官方的逻辑有问题，问答已经过调整......");
+				Toast("官方的错误逻辑已修正......");
 				
 			}
 
