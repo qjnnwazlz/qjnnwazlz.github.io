@@ -1,3 +1,4 @@
+
 function init(flag2){
 			flag=flag2;
 			document.getElementById("text").innerHTML = strques + stransh1 + answers[(npcid-1)*10+(flag-1)*2+0] + stranse + stransh2 + answers[(npcid-1)*10+(flag-1)*2+1] + stranse+hint;
@@ -9,6 +10,10 @@ function init(flag2){
 				document.getElementById("lastpart").onclick= function(){};
 				document.getElementById("nextimg").className="normal";
 				document.getElementById("nextpart").onclick= function(){next()};
+			}
+			if(flag==4&&npcid==4){
+				Toast("官方的逻辑有问题，问答已经过调整......");
+				
 			}
 
 		}
