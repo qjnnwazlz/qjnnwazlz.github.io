@@ -587,6 +587,8 @@ var update_data = [
 {"id":"585","time":"2016.06.10","title":"心吻之花·成就故事","pinyin":"XWZHCJGS","cate1":"套装整理","cate2":"故事套装","cate3":"时光流转","sub":"我喜欢的是人类身上最不可控的那部分，源于爱，源于微幽的偶然与炙热的绝对，散发着迷醉的酒香，将理智燃烧殆尽，无论什么都无法阻止它的生长。","keyword":"","link":"http://weibo.com/1775376942/F79te2ow7?filter=hot&root_comment_id=0"},
 {"id":"586","time":"2016.06.10","title":"花蔓咏叹","pinyin":"HMYT","cate1":"套装整理","cate2":"七大国纪","cate3":"信鸽王国","sub":"这是个沉静的夜晚。艾思坐在飞空艇的前边，慢慢地读一本古老的书。","keyword":"","link":"http://weibo.com/1775376942/F7bhafQyL?filter=hot&root_comment_id=0"},
 {"id":"587","time":"2016.06.10","title":"白樱恋歌","pinyin":"BYLG","cate1":"套装整理","cate2":"七大国纪","cate3":"苹果联邦","sub":"如果可能的话，我想把那个璀璨的夜晚细心珍藏，然后等到时光老去的时候，再与你分享那时的愿望。一生很长，一瞬很短。然而在那个夜晚，一切都颠倒过来，一瞬很长，足以铭记一生，一生很短，转瞬就要分离。","keyword":"有生之年","link":"http://weibo.com/1775376942/F7d7vDJwE?filter=hot&root_comment_id=0"},
-{"id":"588","time":"2016.06.10","title":"童话甜点师","pinyin":"THTDS","cate1":"套装整理","cate2":"七大国纪","cate3":"莉莉斯王国","sub":"蕾蕾相信着:每一款甜点都有着幸福的味道。她将快乐与祝福融入其中，化作了甜蜜与麦香，这是美味的魔法。","keyword":"","link":"http://weibo.com/1775376942/F7jeP0YjJ?filter=hot&root_comment_id=0"},
-
+{"id":"588","time":"2016.06.11","title":"童话甜点师","pinyin":"THTDS","cate1":"套装整理","cate2":"七大国纪","cate3":"莉莉斯王国","sub":"蕾蕾相信着:每一款甜点都有着幸福的味道。她将快乐与祝福融入其中，化作了甜蜜与麦香，这是美味的魔法。","keyword":"","link":"http://weibo.com/1775376942/F7jeP0YjJ?filter=hot&root_comment_id=0"},
+{"id":"589","time":"2016.06.12","title":"战火与情诗","pinyin":"ZHYQS","cate1":"套装整理","cate2":"七大国纪","cate3":"信鸽王国","sub":"风从远方带来淙淙的流水声。我意识到，那是瓦兰河的呼唤，是五月的春光，是明亮而深远的希望。","keyword":"","link":"http://weibo.com/1775376942/F7swbEPS3?filter=hot&root_comment_id=0"},
+{"id":"590","time":"2016.06.12","title":"初遇之风·成就故事","pinyin":"CYZFCJGS","cate1":"套装整理","cate2":"故事套装","cate3":"时光流转","sub":"我能听见一切的声音。千千万万的风，都是我的伙伴。树叶的摩擦、声带的振动、光影的波纹，虫声鸟鸣，折叠的海潮与行进的白云……比起人声，我更喜欢那种充满了自然的声音。","keyword":"","link":"http://weibo.com/1775376942/F7uP7tKV6?filter=hot&root_comment_id=0"},
+{"id":"591","time":"2016.06.13","title":"夜与空之恋曲","pinyin":"YYKZLQ","cate1":"套装整理","cate2":"七大国纪","cate3":"莉莉斯王国","sub":"你是青空，是包容我给我依靠的蓝天。","keyword":"","link":"http://weibo.com/1775376942/F7At7f0us?filter=hot&root_comment_id=0"},
 ]
