@@ -599,4 +599,6 @@ var update_data = [
 {"id":"597","time":"2017.06.14","title":"跃动霓虹","pinyin":"YDNH","cate1":"套装整理","cate2":"非成就套装","cate3":"章节套装","sub":"城市很美，世界很大，属于夜晚的跃动霓虹谁都不想错过。","keyword":"","link":"http://weibo.com/1775376942/F7OhaEHnV?filter=hot&root_comment_id=0"},
 {"id":"598","time":"2017.06.15","title":"飘渺之雪·成就故事","pinyin":"PMZXCJGS","cate1":"套装整理","cate2":"故事套装","cate3":"时光流转","sub":"冰湖是存放记忆的地方，并不是那种时常忆起的、新鲜的过去，而是一些你以为自己已经忘记的过去，它并没有消失，只是等着冰雪消融的那一刻。","keyword":"","link":"http://weibo.com/1775376942/F7UVJkBqi?filter=hot&root_comment_id=0"},
 {"id":"599","time":"2017.06.15","title":"未来绮想曲","pinyin":"WLQXQ","cate1":"套装整理","cate2":"七大国纪","cate3":"云端帝国","sub":"文明之间的碰撞，开启时代的瑰丽诗篇。信鸽与云端的相遇，也曾带来一段绮丽浪漫的敦睦年华。","keyword":"","link":"http://weibo.com/1775376942/F7WkUrww8?filter=hot&root_comment_id=0"},
+{"id":"600","time":"2017.06.16","title":"祈祷之音","pinyin":"QDZY","cate1":"套装整理","cate2":"七大国纪","cate3":"信鸽王国","sub":"圣洁灵魂吟唱着空灵的福音，余音袅袅，浅浅低徊。","keyword":"","link":"http://weibo.com/1775376942/F85wlxz62?filter=hot&root_comment_id=0"},
+{"id":"601","time":"2017.06.17","title":"清宫丽影","pinyin":"QGLY","cate1":"套装整理","cate2":"七大国纪","cate3":"云端帝国","sub":"寂寂花时闭院门，美人相并立琼轩。含情欲说宫中事，鹦鹉前头不敢言。","keyword":"","link":"http://weibo.com/1775376942/F8flgcRn1?filter=hot&root_comment_id=0"},
 ]
