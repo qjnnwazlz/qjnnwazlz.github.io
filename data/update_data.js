@@ -825,4 +825,7 @@ var update_data = [
 {"id":"823","time":"2017.11.29","title":"29-奇趣果拼","pinyin":"QQGP","cate1":"套装整理","cate2":"非成就套装","cate3":"月签到套装","sub":"草莓混合葡萄的发色是小羊沉迷日剧的结果。经历过漂发的少女，又怎么会畏惧截稿日的编辑追杀呢？","keyword":"","link":"https://weibo.com/1775376942/Fxjkw6DSP?filter=hot&root_comment_id=0"},
 {"id":"824","time":"2017.11.30","title":"30-当然是原谅她啦","pinyin":"DRSYLTL","cate1":"套装整理","cate2":"非成就套装","cate3":"月签到套装","sub":"春暖花开的时候，她从林间醒来，眼前是莽莽青山和淙淙流水，还有一位温柔微笑着的少女。","keyword":"","link":"https://weibo.com/1775376942/FxsL118UU?filter=hot&root_comment_id=0"},
 {"id":"825","time":"2017.12.01","title":"锦瑟年华","pinyin":"JSNH","cate1":"套装整理","cate2":"七大国纪","cate3":"云端帝国","sub":"豆蔻如诗，锦瑟年华。郎骑竹马来，绕床弄青梅。","keyword":"","link":"https://weibo.com/1775376942/FxAUhwVuD?filter=hot&root_comment_id=0"},
+{"id":"826","time":"2017.12.02","title":"渡","pinyin":"D","cate1":"套装整理","cate2":"七大国纪","cate3":"云端帝国","sub":"喜怒哀念，怨痴贪嗔。思者已妄，枉者无存。","keyword":"","link":"https://weibo.com/1775376942/FxL36bk78?filter=hot&root_comment_id=0"},
+{"id":"827","time":"2017.12.02","title":"幻城礼遇","pinyin":"HCQY","cate1":"套装整理","cate2":"七大国纪","cate3":"莉莉斯王国","sub":"“有什么愿望推荐吗？”“您的身高有点……不太好办啊，我这里有个宇宙无敌可爱仙女套餐要不要试一下？”","keyword":"","link":"https://weibo.com/1775376942/FxNY8bSKW?filter=hot&root_comment_id=0"},
+{"id":"828","time":"2017.12.03","title":"远野童子","pinyin":"YYTZ","cate1":"套装整理","cate2":"七大国纪","cate3":"云端帝国","sub":"按照约定，我会给学者先生讲一讲我见过的远野童子的故事，请坐在这里，边喝茶边听吧。","keyword":"","link":"https://weibo.com/1775376942/FxV2vfJAk"},
 ]
